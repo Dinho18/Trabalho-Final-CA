@@ -26,9 +26,9 @@
 
   * Abra o MATLAB.
 
-  * Execute o script de uma das seguintes maneiras:
+  * Execute o script da seguintes maneiras:
 
-  * Abrindo o arquivo no Editor do MATLAB e clicando no botão "Run".
+  ** Abrindo o arquivo no Editor do MATLAB e clicando no botão "Run".
 
  
 
