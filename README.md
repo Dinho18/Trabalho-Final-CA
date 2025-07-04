@@ -1,43 +1,43 @@
 # Trabalho-Final-CA
 
-#Projeto de Crossover Passivo de 2ª Ordem
+# Projeto de Crossover Passivo de 2ª Ordem
 
-##Este repositório contém o código-fonte em MATLAB desenvolvido para o projeto da disciplina de Circuitos de Corrente Alternada - CC44CP. A ferramenta projeta e analisa um crossover de áudio de 2ª ordem Butterworth, calculando os componentes ideais, selecionando os componentes comerciais mais próximos e gerando uma análise comparativa através de gráficos de Bode.
-
-
+## Este repositório contém o código-fonte em MATLAB desenvolvido para o projeto da disciplina de Circuitos de Corrente Alternada - CC44CP. A ferramenta projeta e analisa um crossover de áudio de 2ª ordem Butterworth, calculando os componentes ideais, selecionando os componentes comerciais mais próximos e gerando uma análise comparativa através de gráficos de Bode.
 
 
-##Contexto Acadêmico
-
-  *Instituição: Universidade Tecnológica Federal do Paraná (UTFPR), Campus Pato Branco 
 
 
-  *Disciplina: Circuitos de Corrente Alternada - CC44CP 
+## Contexto Acadêmico
+
+  * Instituição: Universidade Tecnológica Federal do Paraná (UTFPR), Campus Pato Branco 
 
 
-  *Professor: Prof. Dionatan Cieslak 
+  * Disciplina: Circuitos de Corrente Alternada - CC44CP 
 
-##Como Usar
-###Requisitos
-  *É necessário ter o software MATLAB instalado no computador.
 
-###Execução
-  *Baixe o arquivo Projeto_Final_CA.m deste repositório.
+  * Professor: Prof. Dionatan Cieslak 
 
-  *Abra o MATLAB.
+## Como Usar
+### Requisitos
+  * É necessário ter o software MATLAB instalado no computador.
 
-  *Execute o script de uma das seguintes maneiras:
+### Execução
+  * Baixe o arquivo Projeto_Final_CA.m deste repositório.
 
-  *Abrindo o arquivo no Editor do MATLAB e clicando no botão "Run".
+  * Abra o MATLAB.
+
+  * Execute o script de uma das seguintes maneiras:
+
+  * Abrindo o arquivo no Editor do MATLAB e clicando no botão "Run".
 
  
 
-##O que o Script Faz
+## O que o Script Faz
 
-Ao ser executado, o script:
-
-
-*Imprime os Resultados: Exibe na Janela de Comando os valores calculados (ideais) e selecionados (reais) para os indutores e capacitores dos filtros LPF e HPF .
+### Ao ser executado, o script:
 
 
-*Gera os Gráficos: Cria e exibe duas janelas de gráfico separadas, contendo os diagramas de Bode comparativos (Ideal vs. Real) para o filtro Passa-Baixas e o filtro Passa-Altas.
+* Imprime os Resultados: Exibe na Janela de Comando os valores calculados (ideais) e selecionados (reais) para os indutores e capacitores dos filtros LPF e HPF .
+
+
+* Gera os Gráficos: Cria e exibe duas janelas de gráfico separadas, contendo os diagramas de Bode comparativos (Ideal vs. Real) para o filtro Passa-Baixas e o filtro Passa-Altas.
